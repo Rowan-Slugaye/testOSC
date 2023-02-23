@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "minimist": "^1.2.8",
+    "node-osc": "^8.0.10"
+  }
+}
